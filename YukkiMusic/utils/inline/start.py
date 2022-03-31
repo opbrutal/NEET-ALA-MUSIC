@@ -16,14 +16,6 @@ from YukkiMusic import app
 
 
 def start_pannel(_):
-    buttons.append(
-        [
-            InlineKeyboardButton(
-                text=_["S_B_5"],
-                url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
-            )
-        ]
-    )
     buttons = [
         [
             InlineKeyboardButton(
@@ -102,6 +94,14 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                     )
                 ]
             )
+            buttons.append(
+        [
+            InlineKeyboardButton(
+                text=_["S_B_5"],
+                url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+            )
+        ]
+    )
     if OWNER:
         buttons.append(
             [
