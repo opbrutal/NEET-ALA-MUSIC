@@ -112,19 +112,19 @@ set_cb_8 : "Getting back.."
 
 # Misc
 ustats_1 : "No User Stats Found."
-ustats_2 : "Grettings!, You have played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by you:\n\n"
+ustats_2 : "ʙᴜʀʀᴀʜ!, ʏᴏᴜ ᴘʟᴀʏᴇᴅ **{0}** ᴛʀᴀᴄᴋs ᴡɪᴛʜ  **{1}** ᴛɪᴍᴇs.\n\nᴛᴏᴘ {2} ᴘʟᴀʏᴇᴅ ʙʏ ʏᴏᴜ:\n\n"
 
-gstats_1 : "Getting Global Stats, This could take some time..."
-gstats_2 : "No Stats Found."
-gstats_3 : "Getting Global Top 10 {0} on the bot, This could take some time.."
-gstats_4 : "**Total Queries on Bot:** {0}\n\n{1} has played **{2}** tracks till now with a whopping count of **{3}** times.\n\n**Top {4} Tracks:**\n"
-gstats_5 : "**Top {0} Chats of {1}:**\n\n"
-gstats_6 : "**Top {0} Users of {1}:**\n\n"
-gstats_7 : "This chat group has played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by this chat group:\n\n"
-gstats_8 : "Getting Bot's general stats and information.. This could take some time..."
-gstats_9 : "**GLOBAL TOP 10 STATS OF THE BOT**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
-gstats_10 : "**Global Stats of {0}**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
-gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which you want to check global stats from bot's servers.\n\nTo check top tracks, chats, users and other stuffs, please use /gstats"
+gstats_1 : "ɢʟᴏʙᴀʟ sᴛᴀᴛs ᴄᴏᴍᴇ sᴏᴏɴ..."
+gstats_2 : "ʟᴏʟ ɴᴏ sᴛᴀᴛs ғᴏᴜɴᴅ."
+gstats_3 : "ɢᴇᴛᴛɪɴɢ ɢʟᴏʙᴀʟ ᴛᴏᴘ 10 {0} ᴏɴ ʙᴏᴛ...ʜᴏʟᴅ ᴏɴ"
+gstats_4 : "**ǫᴜᴇʀɪᴇs ᴏɴ ʙᴏᴛ:** {0}\n\n{1} ᴘʟᴀʏᴇᴅ **{2}** ᴛʀᴀᴄᴋs ᴡɪᴛʜ**{3}** ᴛɪᴍᴇs.\n\n**ᴛᴏᴘ {4} ᴛʀᴀᴄᴋs:**\n"
+gstats_5 : "**ᴛᴏᴘ {0} ᴄʜᴀᴛ ᴏғ {1}:**\n\n"
+gstats_6 : "**ᴛᴏᴘ {0} ᴜsᴇʀ ᴏғ {1}:**\n\n"
+gstats_7 : "ᴛʜɪs ɢᴄ ʜᴀs ᴘʟᴀʏᴇᴅ **{0}** ᴛʀᴀᴄᴋs ᴡɪᴛʜ **{1}** ᴛɪᴍᴇs.\n\nᴛᴏᴘ {2} ᴘʟᴀʏᴇᴅ ʙʏ ᴛʜɪs ɢᴄ:\n\n"
+gstats_8 : "ʙᴏᴛ ɢᴇɴᴇʀᴀʟ sᴛᴀᴛs ᴄᴏʟʟᴇᴄᴛɪɴɢ.. ʜᴏʟᴅ ᴏɴ ᴘʟᴇᴀsᴇ..."
+gstats_9 : "**ɢʟᴏʙᴀʟ ᴛᴏᴘ 10 sᴛᴀᴛs ᴏғ ʙᴏᴛ**\n\nsᴇʟᴇᴄᴛ ᴀᴍᴅ ᴜsᴇ ʙᴜᴛᴛᴏɴ ғᴏʀ ᴛʏᴘᴇ ᴏғ sᴛᴀᴛs."
+gstats_10 : "**ɢʟᴏʙᴀʟ sᴛᴀᴛs ᴏғ {0}**\n\nᴜsᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ sᴛᴀᴛs"
+gstats_11 : "**ɢᴇɴᴇʀᴀʟ sᴛᴀᴛ ᴏғ {0}**\nᴜsᴇ ʙᴜᴛᴛᴏɴs ғᴏʀ ᴍᴏʀᴇ.\n\nTᴛᴏ ᴄʜᴇᴄᴋ ᴛᴏᴘ ᴜsᴇʀs,ᴛʀᴀᴄᴋs ᴀɴᴅ ᴍᴏʀᴇ, ᴘʟᴇᴀsᴇ ᴜsᴇ /gstats"
 
 
 # Play 
