@@ -37,11 +37,17 @@ def stream_markup(_, videoid):
         [
             InlineKeyboardButton(
                 text=_["S_B_3"],
-                url=f"https://t.me/amazingnights",
+                url=f"https://t.me/the_brothers_group",
             ),
             InlineKeyboardButton(
-                text=_["S_B_4"], url=f"https://t.me/itz_rupu"
+                text=_["S_B_4"], url=f"https://t.me/nishu_bothub"
             ),
+        ],
+        [
+            InlineKeyboardButton(
+                text=_["CLOSE_BUTTON"],
+                callback_data=f"forceclose {videoid}|{user_id}",
+            )
         ],
     ]
     return buttons
@@ -51,7 +57,7 @@ def telegram_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_7"], url=f"https://t.me/shivamdemon"
+                text=_["S_B_7"], url=f"https://t.me/FAKE_WORLD_TG"
             ),
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
