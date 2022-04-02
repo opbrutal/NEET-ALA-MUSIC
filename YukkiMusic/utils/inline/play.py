@@ -40,13 +40,12 @@ def stream_markup(_, videoid):
                 url=f"https://t.me/the_brothers_group",
             ),
             InlineKeyboardButton(
-                text=_["S_B_4"], url=f"https://t.me/nishu_bothub"
+                text=_["S_B_4"], url=f"https://t.me/NISHU_BOTHUB"
             ),
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSE_BUTTON"],
-                callback_data=f"forceclose {videoid}|{user_id}",
+                text=_["CLOSEMENU_BUTTON"], callback_data="close"
             )
         ],
     ]
